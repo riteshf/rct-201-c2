@@ -1,14 +1,14 @@
+# Getting Started
+
+1. Download this repository [https://github.com/riteshf/rct-201-c2](https://github.com/riteshf/rct-201-c2) as ZIP
+2. Navigate to the folder `cd rct-201-c2`
+3. npm install
+4. npm start
+
 # Task
 
 - Create a Similar page using the Provided Boilerplate
-  ![](./src/assets/rct-201-e1.png)
-
-# Getting Started
-
-1. download this repository [https://github.com/riteshf/rct-201-c2](https://github.com/riteshf/rct-201-c2) as ZIP
-2. navigate to the folder `cd rct-201-c2`
-3. npm install
-4. npm start
+  ![](https://github.com/riteshf/rct-201-c2/blob/main/src/assets/rct-201-e1.png?raw=true)
 
 ## Understanding Component Structure
 
