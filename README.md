@@ -5,11 +5,10 @@
 
 # Getting Started
 
-1. Fork this repository [https://github.com/riteshf/rct-201-e1-boilerplate](https://github.com/riteshf/rct-201-e1-boilerplate)
-2. Clone the forked app from your github account..
-3. navigate to the folder `cd rct-201-e1-boilerplate`
-4. npm install
-5. npm start
+1. download this repository [https://github.com/riteshf/rct-201-c2](https://github.com/riteshf/rct-201-c2) as ZIP
+2. navigate to the folder `cd rct-201-c2`
+3. npm install
+4. npm start
 
 ## Understanding Component Structure
 
@@ -82,7 +81,7 @@
 5. Make sure you use only the given components and dont create new files and folders as chaging component name, structures might result in giving you zero marks
 6. Make sure you use only the given data and dont create new data, as chaging data might result in giving you zero marks
 
-
 ## Just for fun, things you can try (**_OPTIONAL_**)
+
 - Try running `npm run test`
   - might help you to avoid obvious mistakes.
